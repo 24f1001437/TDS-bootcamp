@@ -1,3 +1,6 @@
+---
+---
+
 --- Before Day-2 ---
 I already knew ...
 --- 
@@ -13,3 +16,14 @@ I already knew ...
 - [x] I know the difference between `export VAR=value` (available to child processes) and just `VAR=value` (shell-local)
 
 --- After Day-2 ---
+I learned these things as well, apart from the checklist ...
+---
+
+--- Feedback (Suggestions for the TDS Team) ---
+This is my feedback ...
+---
+
+---
+---
+
+You can write your personal notes here; they will not be parsed and are for your own reference.
