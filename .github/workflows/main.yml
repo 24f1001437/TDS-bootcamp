@@ -1,0 +1,13 @@
+name: Assignment Action
+
+# This tells the action to trigger automatically whenever you push (save) new code
+on: [push]
+
+jobs:
+  test:
+    # This tells GitHub what kind of virtual computer to run your script on
+    runs-on: ubuntu-latest
+    steps:
+      # Here is your required email address step!
+      - name: 24f1001437@ds.study.iitm.ac.in
+        run: echo "Hello, world!"
