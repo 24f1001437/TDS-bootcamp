@@ -51,11 +51,12 @@ def get_stats(values: str):
     mean_val = sum_val / count_val
     
     # Return the exact JSON structure the grader wants
+    # Return the exact JSON format required
     return {
-        "email": "YOUR_EMAIL_HERE@example.com", # IMPORTANT: Change this to your logged-in email!
-        "count": count_val,
-        "sum": sum_val,
-        "min": min_val,
-        "max": max_val,
-        "mean": mean_val
+        "email": "24f1001437@ds.study.iitm.ac.in", 
+        "count": count,
+        "sum": total_sum,
+        "min": minimum,
+        "max": maximum,
+        "mean": mean
     }
